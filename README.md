@@ -1,1 +1,3 @@
-Myself kartik.New to the programming world.Will do my best to learn new things and contibute to others 
+#python
+Python programs are easy to learn and execute
+Following Branch contains simple python coding which can be used in our daily life
